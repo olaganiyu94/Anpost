@@ -12,13 +12,16 @@ body{
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-family: 'lato', 'sans-serif';
+  font-family: 'lato', sans-serif;
   /* Generic project styles */
 }
 
 /* Header */
 header{
     background-color: lightcoral;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
 }
 /* Main */
 main{
