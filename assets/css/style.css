@@ -79,11 +79,15 @@ h1{
 
 /* Main */
 main{
-    background-color: lightblue;
     margin-top: 47px;
-
     /* main element take up any surplus space */
     flex: 1 0 auto;
+}
+/*section */
+#main-photo{
+    height: 600px;
+    width: 100%;
+    background: url("../images/1930.jpg") no-repeat center center/cover;
 }
 /* footer */
 #social-networks {
