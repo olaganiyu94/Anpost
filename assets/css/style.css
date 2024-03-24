@@ -78,7 +78,6 @@ header a {
  .nav-toggle-label {
     font-size: 2rem;
  }
- 
 
 /* Main */
 main{
@@ -109,7 +108,7 @@ main{
 
 /* Reason Section. */
 #reasons{
-    width: 90%;
+    width: 95%;
     margin: 20px auto;
     background-color: #4be2a3;
 }
@@ -129,21 +128,7 @@ main{
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
-#circle-cover-bg{
-        height: 90vw;
-        width: 90vw;
-        background: url("../images/1931.jpg") no-repeat top center/cover;
-        margin-bottom: 20px;
-        border-radius:  300px;
-        max-width: 300px;
-        max-height: 300px;
-}
 
-#benefits-image{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 /* Meetup Times section */
 #times {
     background: url("../images/1931.jpg") no-repeat center/cover;
@@ -212,7 +197,7 @@ main {
 
 /* Form */
 #signup {
-    background-image: url("../images/Dublin_UK.PNG");
+    background-image: url("../images/Rising.jpg");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -240,13 +225,6 @@ main {
     border-radius: 2px;
     padding: 0 5px;
 }
-
-.radio-buttons {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-}
-
 .join-button {
     margin-top: 20px;
     border-radius: 2px;
@@ -255,6 +233,20 @@ main {
     background-color: #454b1b;
     color: #fafafa;
 }
+
+#thank {
+    background-image: url("../images/Rising.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+#thank h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+} 
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -314,19 +306,6 @@ main {
     #cover-text{
         width: 500px;
         right: 50px;
-    }
-    #benefits-physical, #benefits-mental{
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-
-    }
-    #benefits-physical > div, #benefits-mental > div{
-        width: 75%;
-    }
-    #benefits-mental > div{
-        text-align: end;
-        align-self: flex-end;
     }
     #photos{
         column-count: 3;
