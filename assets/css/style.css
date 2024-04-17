@@ -175,6 +175,73 @@ main{
     padding: 5%;
     color:#3a3a3a;
 }
+
+
+
+#signup{
+    height: 600px;
+    width: 100%;
+    background: url("../images/Rising.jpg") no-repeat center center/cover;
+    position: relative;
+}
+/* Form Section */
+
+#form-outer {
+    width: 100%;
+    position: relative;
+}
+
+#contribute-form {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    right: 0;
+    bottom: 5%;
+    margin: auto;
+    background-color: #142a2b;
+    max-width: 400px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.text-input {
+    width: 90%;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px 0 20px 0;
+}
+
+textarea {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px 0 0 0;
+    width: 90%;
+    height: 100px;
+}
+
+#checkbox {
+    border: 1px solid white;
+    font-size: 14px;  
+}
+
+.contribute-button {
+    padding: 5px 20px;
+    background-color: white;
+    font-size: 100%;
+    text-align: center;
+    border-radius: 4px;
+    color: #4b5054;
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
+
+.contribute-button:hover {
+    background-color: #e1eae7;
+    cursor: pointer;
+}
+
 @media screen and (min-width:576px) {
     #photos{
         column-count: 2;
@@ -182,7 +249,6 @@ main{
     }
     
 }
-/*     Sign Up    */
 
 /* Main content */
 main {
@@ -194,58 +260,6 @@ main {
     display: flex;
     flex-direction: column;
 }
-
-/* Form */
-#signup {
-    background-image: url("../images/Rising.jpg");
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
-}
-
-#signup-form {
-    color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
-    padding: 30px;
-}
-
-#signup-form > h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
-}
-
-.text-input {
-    background: transparent;
-    color: #fafafa;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-    padding: 0 5px;
-}
-.join-button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px;
-    font-size: 100%;
-    background-color: #454b1b;
-    color: #fafafa;
-}
-
-#thank {
-    background-image: url("../images/Rising.jpg");
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
-}
-#thank h2 {
-    margin-bottom: 20px;
-    text-align: center;
-    font-size: 280%;
-} 
 
 
 /* Media query: tablets and larger (768px and up) */
@@ -272,6 +286,7 @@ main {
         background-color: #fafafa;
         color: #454b1b;
     }
+    
 }
 /*Media Query : tablets and larger (768px and up ) */
 @media screen and (min-width: 768px){
