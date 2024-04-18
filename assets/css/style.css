@@ -129,6 +129,34 @@ main{
     margin: 5px 0;
 }
 
+/* Gallery */
+#photos img{
+    width: 100%;
+    line-height: 1em;
+}
+#photos{
+    line-height: 0;
+}
+/* footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none ;
+}
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color:#3a3a3a;
+}
+
+#Contact{
+    background: url("../images/Rising.jpg") no-repeat center center/cover;
+    position: relative;
+    height: 600px;
+    width: 100%;   
+}
 /* Meetup Times section */
 #times {
     background: url("../images/1931.jpg") no-repeat center/cover;
@@ -153,38 +181,6 @@ main{
     /* Override the heading colour set in general styles */
     color: #fafafa;
 }
-
-/* Gallery */
-#photos img{
-    width: 100%;
-    line-height: 1em;
-}
-#photos{
-    line-height: 0;
-}
-/* footer */
-#social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none ;
-}
-#social-networks i {
-    font-size: 160%;
-    padding: 5%;
-    color:#3a3a3a;
-}
-
-
-
-#Contact{
-    background: url("../images/Rising.jpg") no-repeat center center/cover;
-    position: relative;
-    height: 600px;
-    width: 100%;
-    
-}
 #contact-form {
     position: absolute;
     top: 5%;
@@ -194,7 +190,7 @@ main{
     margin: auto;
     background-color: #035202;
     max-width: 400px;
-    padding: 20px;
+    padding: 10px;
     color: white;
     text-align: center;
 }
