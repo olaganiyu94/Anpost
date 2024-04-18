@@ -64,8 +64,8 @@
  •	CSS
  o	No errors were found when passing through the official 
  
-    w3c CSS validator
-        •	[General Post Office](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
+    w3c CSS validator 
+[W3C Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
  
  Form Testing 
  
@@ -84,9 +84,9 @@
  
     •	The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
     •	I also used the following websites to test responsiveness:
-    [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2F/)
+[Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2F/)
 
-    [Am I Responsive](https://ui.dev/amiresponsive?url=https://olaganiyu94.github.io/Anpost/)
+[Am I Responsive](https://ui.dev/amiresponsive?url=https://olaganiyu94.github.io/Anpost/)
 
 
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
@@ -99,7 +99,7 @@ Once selected, click the 'Save'.
 Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
     The live link can be found here : 
-    [Anpost](https://olaganiyu94.github.io/Anpost/index.html/)
+[Anpost](https://olaganiyu94.github.io/Anpost/index.html/)
 
 
 
