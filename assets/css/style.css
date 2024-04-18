@@ -110,7 +110,7 @@ main{
 #reasons{
     width: 95%;
     margin: 20px auto;
-    background-color: #085535;
+    background-color: #035202;
 }
 #reasons h2 {
     margin-bottom: 20px;
@@ -192,7 +192,7 @@ main{
     right: 0;
     bottom: 5%;
     margin: auto;
-    background-color: #073006;
+    background-color: #035202;
     max-width: 400px;
     padding: 20px;
     color: white;
@@ -261,8 +261,33 @@ main {
 }
 
 
+.history-holder {
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+
+.history, .history h3{
+    color: white;
+}
+.history h3{
+    margin-top: 15px;
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
+    .history-holder{
+        display: flex;
+        gap: 15px;
+    }
+    .history h3 {
+        height: 90px;
+    }
+    .history p{
+        margin-top: 15px;
+    }
+      
 
     /* Form */
     #signup {
