@@ -34,11 +34,13 @@
  
  •	The footer section includes links to the relevant social media sites for General post office. The links will open to a new tab to allow easy navigation for the user.
  •	The footer is valuable to the user as it encourages them to keep connected via social media 
+ ![alt text](image-2.png)
  
  Gallery
  
  •	The gallery will provide the user with supporting images to see what the building looks like in the current and previous years. 
  •	This section is valuable to the user as they will be able to see the changes around the building.
+![alt text](image-3.png)
  Contact form, 
  
  The Contact pages give users idea for any information they will like to provide for any purpose, 
