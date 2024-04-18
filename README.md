@@ -6,7 +6,7 @@
  
  
  Link to site can be found here [General Post Office](https://olaganiyu94.github.io/Anpost/)
- ![alt text](../images/image-1.png)
+ ![alt text](assets/images/image-1.png)
  
   
  
@@ -34,30 +34,32 @@
  
  •	The footer section includes links to the relevant social media sites for General post office. The links will open to a new tab to allow easy navigation for the user.
  •	The footer is valuable to the user as it encourages them to keep connected via social media 
- ![alt text](../images/image-2.png)
+ ![alt text](assets/images/image-2.png)
  
  Gallery
  
  •	The gallery will provide the user with supporting images to see what the building looks like in the current and previous years. 
  •	This section is valuable to the user as they will be able to see the changes around the building.
-![alt text](../images/image-3.png)
+![alt text](assets/images/image-3.png)
  Contact form, 
  
  The Contact pages give users idea for any information they will like to provide for any purpose, 
  
  This section also will enable the user to find the location of the General post office and all other post office around Ireland 
 
- ![alt text](../images/image-4.png)
+ ![alt text](assets/images/image-4.png)
  
  
  Testing 
+
  Validator testing 
+
  •	HTML 
  o	No errors were returned when passing through the official W3C markup validator 
-        •	W3C Validator Results 
+        •	[General Post Office](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Findex.html/) 
  •	CSS
  o	No errors were found when passing through the official w3c CSS validator
-        •	W3C CSS Validator Results 
+        •	[General Post Office](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
  Form Testing 
  
  •	The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
@@ -74,10 +76,9 @@
  
  •	The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
  •	I also used the following websites to test responsiveness:
-    
-        •	Responsinator 
+    [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2F/)
 
-        •	Am I Responsive 
+[Am I Responsive](https://ui.dev/amiresponsive?url=https://olaganiyu94.github.io/Anpost/)
 
 
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
@@ -89,7 +90,10 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
     Once selected, click the 'Save'.
     Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
-    The live link can be found here : Anpost 
+    The live link can be found here : 
+[Anpost](https://olaganiyu94.github.io/Anpost/index.html/)
+
+
 
 
  
