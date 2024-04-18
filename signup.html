@@ -28,23 +28,58 @@
      <!-- Main Content -->
     <main>
         <section id="signup">
-            <h3>Contact Form</h3>
+            
+                <form id="contribute-form" method="post" action="https://formdump.codeinstitute.net/" target="_blank">
+                   
+                    <label for="fname">Firstname</label>
+                    <input type="text" name="firstname" id="firstname" class="text-input" required placeholder="Your name..">
 
-            <div class="container">
-            <form action="/action_page.php">
-                <label for="fname">First Name</label>
-                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                    <label for="lname">Lastname</label>
+                    <input type="text" name="lastname" id="lastname" class="text-input" required placeholder="Your last name..">
 
-                <label for="lname">Last Name</label>
-                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" placeholder="Email.." id="email" class="text-input" required>
 
-                <label for="subject">Subject</label>
-                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+                    <label for="subject">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-                <input type="submit" value="Submit">
-            </form>
+                    <p>
+                        <input type="checkbox" name="checkbox" id="checkbox">
+                        <label for="checkbox">I would like to receive Anpost email newsletter</label>
+                    </p>
+
+                    <input type="submit" value="Submit" class="contribute-button">
+                </form>
+        </section>
+        <section id="meetups">
+            <h2 class="hidden-heading">Meet-up Times</h2>
+            <div id="times">
+                <div>
+                    <h3>Opening Hours<i class="fa-solid fa-city"></i></h3>
+                    <p>Monday - Friday</p>
+                    <p>8:30 - 18:00</p>
+                    <p>Saturday</p>
+                    <p>8:30 - 18:00</p>
+                    <p>Sunday - Closed</p>
+                    
+                </div>
+                <div>
+                    <h3>Contact Details<i class="fa-solid fa-tree"></i></h3>
+                    <p>Phone </p>
+                    <p>(01) 705 7600</p>
+                    <p>Email</p>
+                    <p>publicity.post@anpost.ie</p>
+                </div>
+                <div>
+                    <h3>GPO Museum<i class="fa-solid fa-city"></i></h3>
+                    <p>Ticket Prices:</p>
+                    <p>Adult - €15.00</p>
+                    <p>Child (over 5 years) from €7.50</p>
+                    <p>Student - €12.00</p>
+                    <p>Seniors (65+) €12.00</p>
+                    <p>Group rates available, contact central reservations</p>
+                </div>
             </div>
-      
         </section>
     </main>
      <!--Footer-->
