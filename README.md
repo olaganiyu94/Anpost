@@ -6,7 +6,7 @@
  
  
  Link to site can be found here [General Post Office](https://olaganiyu94.github.io/Anpost/)
- ![alt text](assets/images/image-1.png)
+ [alt text](assets/images/image-1.png)
  
   
  
@@ -55,43 +55,51 @@
  Validator testing 
 
  •	HTML 
- o	No errors were returned when passing through the official W3C markup validator 
+
+ o	No errors were returned when passing through the official 
+ 
+ W3C markup validator 
         •	[General Post Office](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Findex.html/) 
+ 
  •	CSS
- o	No errors were found when passing through the official w3c CSS validator
+ o	No errors were found when passing through the official 
+ 
+    w3c CSS validator
         •	[General Post Office](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
+ 
  Form Testing 
  
- •	The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
+    •	The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
  
  Link Testing 
- •	All navigation links were tested manually to ensure the user is directed to the correct section of the website.
- •	Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab.
+
+    •	All navigation links were tested manually to ensure the user is directed to the correct section of the website.
+    •	Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab.
  
  Browser Testing
  
- •	The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
+    •	The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
  
  Device Testing
  
- •	The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
- •	I also used the following websites to test responsiveness:
+    •	The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
+    •	I also used the following websites to test responsiveness:
     [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2F/)
 
-[Am I Responsive](https://ui.dev/amiresponsive?url=https://olaganiyu94.github.io/Anpost/)
+    [Am I Responsive](https://ui.dev/amiresponsive?url=https://olaganiyu94.github.io/Anpost/)
 
 
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
 
-    Go to the repository on GitHub.com
-    Select 'Settings' near the top of the page.
-    Select 'Pages' from the menu bar on the left of the page.
-    Under 'Source' select the 'Branch' dropdown menu and select the main branch.
-    Once selected, click the 'Save'.
-    Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
+Go to the repository on GitHub.com
+Select 'Settings' near the top of the page.
+Select 'Pages' from the menu bar on the left of the page.
+Under 'Source' select the 'Branch' dropdown menu and select the main branch.
+Once selected, click the 'Save'.
+Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
     The live link can be found here : 
-[Anpost](https://olaganiyu94.github.io/Anpost/index.html/)
+    [Anpost](https://olaganiyu94.github.io/Anpost/index.html/)
 
 
 
