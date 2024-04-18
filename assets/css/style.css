@@ -348,9 +348,7 @@ main {
 }
 /* larger screen and up */
 @media screen and (mid-width: 992px) {
-    #menu a:hoover{
-        border-bottom: 1px solid #3a3a3a;
-    }
+    
      /* Form */
      #Contact {
         background-position: center;
