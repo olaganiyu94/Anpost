@@ -55,16 +55,15 @@
  Validator testing 
 
  •	HTML 
-
- o	No errors were returned when passing through the official 
+ No errors were returned when passing through the official 
  
  W3C markup validator 
         •	[W3C Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Findex.html/) 
  
  •	CSS
- o	No errors were found when passing through the official 
+No errors were found when passing through the official 
  
-    w3c CSS validator 
+w3c CSS validator 
 [W3C CSS Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
  
  Form Testing 
@@ -83,7 +82,7 @@
  Device Testing
  
     •	The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
-    •	I also used the following websites to test responsiveness:
+I also used the following websites to test responsiveness: 
 [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2F/)
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://olaganiyu94.github.io/Anpost/)
@@ -98,7 +97,7 @@ Under 'Source' select the 'Branch' dropdown menu and select the main branch.
 Once selected, click the 'Save'.
 Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
-    The live link can be found here : 
+The live link can be found here : 
 [Anpost](https://olaganiyu94.github.io/Anpost/index.html/)
 
 
