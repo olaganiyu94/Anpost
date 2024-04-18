@@ -284,16 +284,14 @@ main {
     .history p{
         margin-top: 15px;
     }
-      
-
-    /* Form */
-    #Contact {
+   
+     /* Form */
+     #Contact {
         background-position: center;
         position: relative;
-        flex-grow: 1
     }
 
-    #contact-form {
+    #Contact-form {
         max-width: 400px;
         position: absolute;
         left: 10%;
