@@ -6,7 +6,8 @@
  
  
  Link to site can be found here [General Post Office](https://olaganiyu94.github.io/Anpost/)
- [alt text](assets/images/image-1.png)
+
+ ![alt text](assets/images/image-1.png)
  
   
  
