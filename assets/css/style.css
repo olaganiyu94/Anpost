@@ -178,14 +178,30 @@ main{
 
 
 
-#signup{
-    
-    width: 95%;
-    margin: 20px auto;
+#Contact{
     background: url("../images/Rising.jpg") no-repeat center center/cover;
     position: relative;
+    height: 600px;
+    width: 100%;
+    
 }
-/* Contact Form */
+#contact-form {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    right: 0;
+    bottom: 5%;
+    margin: auto;
+    background-color: #073006;
+    max-width: 400px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+#contact-form h3{
+    color: #e1eae7;
+}
 
 .text-input {
     width: 90%;
@@ -202,35 +218,12 @@ textarea {
     height: 100px;
 }
 
-  input[type=submit] {
-    background-color: #04AA6D;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  #checkbox {
+#checkbox {
     border: 1px solid white;
     font-size: 14px;  
 }
-  input[type=submit]:hover {
-    background-color: #45a049;
-  }
-  #contribute-form {
-    position: absolute;
-    top: 5%;
-    left: 0;
-    right: 0;
-    bottom: 5%;
-    margin: auto;
-    background-color: #3aee09;
-    max-width: 400px;
-    padding: 20px;
-    color: white;
-    text-align: center;
-}
-.contribute-button {
+
+.contact-button {
     padding: 5px 20px;
     background-color: white;
     font-size: 100%;
@@ -240,6 +233,11 @@ textarea {
     border: none;
     display: block;
     margin: 0 auto;
+}
+
+.contact-button:hover {
+    background-color: #e1eae7;
+    cursor: pointer;
 }
 
 
