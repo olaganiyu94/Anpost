@@ -59,13 +59,13 @@
  o	No errors were returned when passing through the official 
  
  W3C markup validator 
-        •	[General Post Office](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Findex.html/) 
+        •	[W3C Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Findex.html/) 
  
  •	CSS
  o	No errors were found when passing through the official 
  
     w3c CSS validator 
-[W3C Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
+[W3C CSS Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Folaganiyu94.github.io%2FAnpost%2Fassets%2Fcss%2Fstyle.css/) 
  
  Form Testing 
  
