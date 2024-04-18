@@ -243,8 +243,7 @@ textarea {
     #photos{
         column-count: 2;
         column-gap: 0;
-    }
-    
+    }  
 }
 
 /* Main content */
@@ -291,6 +290,7 @@ main {
     #Contact {
         background-position: center;
         position: relative;
+        flex-grow: 1
     }
 
     #contact-form {
@@ -353,6 +353,12 @@ main {
     #menu a:hoover{
         border-bottom: 1px solid #3a3a3a;
     }
+     /* Form */
+     #Contact {
+        background-position: center;
+        position: relative;
+        flex-grow: 1
+    }
     
 }
 @media screen and (min-width: 1200px) {    
@@ -383,5 +389,10 @@ main {
     }
     #photos{
         column-count: 3;
+    }
+    #Contact {
+        background-position: center;
+        position: relative;
+        flex-grow: 1
     }
 }
